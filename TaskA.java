@@ -19,6 +19,7 @@ public class TaskA{
         monthly_cost = total_cost / 12;
         System.out.printf("Your total estimated cost is $%,.2f", total_cost);
         System.out.printf(" and your monthly cost is about $%,.2f\n", monthly_cost);
+        System.out.println("Coding is fun!");
     }
     //CPP cost calculator
 }
